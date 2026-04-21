@@ -18,5 +18,7 @@ This folder documents OctoAcme's end-to-end project management approach:
 - [Execution & Tracking](./octoacme-execution-and-tracking.md)
 - [Risks & Communication](./octoacme-risks-and-communication.md)
 - [Release & Deployment](./octoacme-release-and-deployment.md)
+- [Release Coordination Checklist](./release-coordination-checklist.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](./octoacme-roles-and-personas.md)
+- [QA Testing Best Practices](./qa-testing-best-practices.md)
